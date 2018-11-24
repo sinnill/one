@@ -1,7 +1,7 @@
-#one
-- [grd](grd/REAADME.md) 
-    - [make](grd/make/README.md)
-    - [test](grd/test/README.md)
-- [mvn](grd/REAADME.md) 
-    - [make](mvn/make/README.md)
-    - [test](mvn/test/README.md)
+# one
+- grd
+    - [make](grd/make.md)
+    - [test](grd/test.md)
+- mvn
+    - [make](mvn/make.md)
+    - [test](mvn/test.md)
