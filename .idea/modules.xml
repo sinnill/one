@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grd.iml" filepath="$PROJECT_DIR$/.idea/modules/grd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/make-grd.iml" filepath="$PROJECT_DIR$/.idea/modules/make-grd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvn/mvn.iml" filepath="$PROJECT_DIR$/mvn/mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvn/make/mvn.make.iml" filepath="$PROJECT_DIR$/mvn/make/mvn.make.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvn/test/mvn.test.iml" filepath="$PROJECT_DIR$/mvn/test/mvn.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/one-grd.iml" filepath="$PROJECT_DIR$/.idea/modules/one-grd.iml" />
+    </modules>
+  </component>
+</project>
