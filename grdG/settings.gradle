@@ -1,3 +1,4 @@
 rootProject.name = "grdG"
 include "more"
 include "module"
+include "multi"

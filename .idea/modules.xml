@@ -3,14 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/grdG.iml" filepath="$PROJECT_DIR$/.idea/modules/grdG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grdG.module/grdG-module.iml" filepath="$PROJECT_DIR$/.idea/modules/grdG.module/grdG-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grdG.more/grdG-more.iml" filepath="$PROJECT_DIR$/.idea/modules/grdG.more/grdG-more.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grdG.multi/grdG-multi.iml" filepath="$PROJECT_DIR$/.idea/modules/grdG.multi/grdG-multi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/grdK.iml" filepath="$PROJECT_DIR$/.idea/modules/grdK.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module/module.iml" filepath="$PROJECT_DIR$/.idea/modules/module/module.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/more/more.iml" filepath="$PROJECT_DIR$/.idea/modules/more/more.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module/grdK-module.iml" filepath="$PROJECT_DIR$/.idea/modules/module/grdK-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/more/grdK-more.iml" filepath="$PROJECT_DIR$/.idea/modules/more/grdK-more.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvn/mvn.iml" filepath="$PROJECT_DIR$/mvn/mvn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvn/make/mvn.make.iml" filepath="$PROJECT_DIR$/mvn/make/mvn.make.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mvn/test/mvn.test.iml" filepath="$PROJECT_DIR$/mvn/test/mvn.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module/one-module.iml" filepath="$PROJECT_DIR$/.idea/modules/module/one-module.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/more/one-more.iml" filepath="$PROJECT_DIR$/.idea/modules/more/one-more.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvn/make/mvn-make.iml" filepath="$PROJECT_DIR$/mvn/make/mvn-make.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvn/test/mvn-test.iml" filepath="$PROJECT_DIR$/mvn/test/mvn-test.iml" />
     </modules>
   </component>
 </project>
