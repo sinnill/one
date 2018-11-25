@@ -1,0 +1,23 @@
+plugins {
+    id "java-library"                                 //java
+    id "groovy"                                        //groovy
+//    id kotlin("jvm") version "1.3.10"      //kotlin
+//    id "scala"                                        //scala
+}
+dependencies {
+    api "org.apache.commons:commons-math3:3.6.1"
+    implementation "com.google.guava:guava:23.0"
+//    implementation kotlin("stdlib","1.3.10")                           //kotlin
+    compile "org.codehaus.groovy:groovy:2.4.15"               //groovy
+//    implementation "org.scala-lang:scala-library:2.11.12"                      //scala
+    testImplementation "junit:junit:4.12"
+    testCompile "org.spockframework:spock-core:1.1-groovy-2.4"         //groovy
+//    testImplementation "org.scalatest:scalatest_2.11:3.0.5"                                     //scala
+//    testRuntime "org.scala-lang.modules:scala-xml_2.11:1.1.0"                            //scala
+}
+jar {
+    manifest {
+        attributes("Implementation-Title": project.name,
+                "Implementation-Version": project.version)
+    }
+}

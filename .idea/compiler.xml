@@ -6,14 +6,33 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mvn" />
         <module name="mvn.make" />
         <module name="mvn.test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="mvn" target="1.5" />
+      <module name="gradleRunner_main" target="1.8" />
+      <module name="gradleRunner_test" target="1.8" />
+      <module name="grd_main" target="1.10" />
+      <module name="grd_test" target="1.10" />
+      <module name="grdK.more_main" target="1.8" />
+      <module name="grdK.more_test" target="1.8" />
+      <module name="Kotlin_main" target="11" />
+      <module name="Kotlin_test" target="11" />
+      <module name="make_main" target="1.8" />
+      <module name="make_test" target="1.8" />
+      <module name="more_main" target="1.8" />
+      <module name="more_test" target="1.8" />
+      <module name="mvn" target="1.7" />
       <module name="mvn.make" target="1.5" />
       <module name="mvn.test" target="1.5" />
+      <module name="one-more_main" target="1.8" />
+      <module name="one-more_test" target="1.8" />
+      <module name="tes_main" target="1.10" />
+      <module name="tes_test" target="1.10" />
+      <module name="test_main" target="1.8" />
+      <module name="test_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

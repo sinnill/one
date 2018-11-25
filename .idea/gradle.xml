@@ -4,35 +4,30 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/grd" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/grdG" />
         <option name="gradleHome" value="E:/ctx/gradle-4.10.2" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/grd" />
+            <option value="$PROJECT_DIR$/grdG" />
+            <option value="$PROJECT_DIR$/grdG/module" />
+            <option value="$PROJECT_DIR$/grdG/more" />
           </set>
         </option>
+        <option name="resolveModulePerSourceSet" value="false" />
         <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/grd/make" />
-        <option name="gradleHome" value="E:/ctx/gradle-4.10.2" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/grdK" />
+        <option name="gradleHome" value="E:/ctx/gradle-5.1" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/grd/make" />
+            <option value="$PROJECT_DIR$/grdK" />
+            <option value="$PROJECT_DIR$/grdK/module" />
+            <option value="$PROJECT_DIR$/grdK/more" />
           </set>
         </option>
-        <option name="useAutoImport" value="true" />
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/grd/test" />
-        <option name="gradleHome" value="E:/ctx/gradle-4.10.2" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/grd/test" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
         <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
     </option>

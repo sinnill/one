@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grd.iml" filepath="$PROJECT_DIR$/.idea/modules/grd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/make-grd.iml" filepath="$PROJECT_DIR$/.idea/modules/make-grd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grdG.iml" filepath="$PROJECT_DIR$/.idea/modules/grdG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grdK.iml" filepath="$PROJECT_DIR$/.idea/modules/grdK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module/module.iml" filepath="$PROJECT_DIR$/.idea/modules/module/module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/more/more.iml" filepath="$PROJECT_DIR$/.idea/modules/more/more.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvn/mvn.iml" filepath="$PROJECT_DIR$/mvn/mvn.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvn/make/mvn.make.iml" filepath="$PROJECT_DIR$/mvn/make/mvn.make.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvn/test/mvn.test.iml" filepath="$PROJECT_DIR$/mvn/test/mvn.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/one-grd.iml" filepath="$PROJECT_DIR$/.idea/modules/one-grd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module/one-module.iml" filepath="$PROJECT_DIR$/.idea/modules/module/one-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/more/one-more.iml" filepath="$PROJECT_DIR$/.idea/modules/more/one-more.iml" />
     </modules>
   </component>
 </project>
