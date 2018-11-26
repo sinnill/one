@@ -1,4 +1,4 @@
 rootProject.name = "grdG"
-include "more"
 include "module"
 include "multi"
+include "multi.more"

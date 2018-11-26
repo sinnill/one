@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mvn" />
-        <module name="mvn-make" />
-        <module name="mvn-test" />
+        <module name="mvn-module" />
+        <module name="mvn-multi" />
+        <module name="mvn-multi-more" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,7 +27,11 @@
       <module name="more_test" target="1.8" />
       <module name="mvn" target="1.7" />
       <module name="mvn-make" target="1.7" />
+      <module name="mvn-module" target="1.7" />
+      <module name="mvn-multi" target="1.7" />
+      <module name="mvn-multi-more" target="1.7" />
       <module name="mvn-test" target="1.7" />
+      <module name="mvn.test" target="1.7" />
       <module name="one-more_main" target="1.8" />
       <module name="one-more_test" target="1.8" />
       <module name="tes_main" target="1.10" />

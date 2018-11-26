@@ -1,3 +1,4 @@
+//name = "module"
 ext.moduleName = "grdG.module"
 subprojects {
     afterEvaluate {

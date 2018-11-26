@@ -1,3 +1,4 @@
+name = "more"
 plugins {
     id "java-library"                                 //java
     id "groovy"                                        //groovy

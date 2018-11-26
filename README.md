@@ -1,7 +1,30 @@
 # one
-- grd
-    - [make](grd/make.md)
-    - [test](grd/test.md)
+- gradle update from groovy to kotlin
+- maven xml文件
+- grdG gradle with groovy DSL
+    - [multi](grdG/multi.md)
+        - [more](grdG/more.md)
+            - JLib(java-libraries)
+            - Glib(groovy libraries)
+            - KLib(kotlin jvm libraries)
+            - SLib(scala libraries)
+        - Japp(java application)
+        - JWeb(java web)
+        - SF(spring)
+        - SBoot(spring boot)
+    - [module](grdG/module.md)
+        - java libraries
+        - jave web
+- grdK gradle with kotlin DSL
+    - [multi](grdK/multi.md)
+        - [more](grdK/more.md)
+            - JLib(java-libraries)
+            - Glib(groovy libraries)
+            - KLib(kotlin jvm libraries)
+            - SLib(scala libraries)
+        - Japp(java application)
+        - JWeb(java web)
+        - SF(spring)
+        - SBoot(spring boot)
+    - [module](grdK/module.md)
 - mvn
-    - [make](mvn/make.md)
-    - [test](mvn/test.md)

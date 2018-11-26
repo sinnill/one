@@ -9,12 +9,13 @@
     <!--packaging: pom jar war-->
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>onename</name>
+    <name>mvn</name>
     <url>http://maven.apache.org</url>
 
     <modules>
-        <module>make</module>
-        <module>test</module>
+        <module>multi</module>
+        <module>multi/more</module>
+        <module>module</module>
     </modules>
     <properties>
         <jdk.version>1.7</jdk.version>

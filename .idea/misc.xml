@@ -4,7 +4,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/mvn/pom.xml" />
-        <option value="$PROJECT_DIR$/mvn/make/pom.xml" />
       </list>
     </option>
   </component>

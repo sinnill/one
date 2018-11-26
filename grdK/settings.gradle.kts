@@ -1,3 +1,4 @@
 rootProject.name = "grdK"
-include("more")
-include("module")
+//include("module")
+//include("multi")
+//include("multi.more")
