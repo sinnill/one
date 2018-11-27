@@ -10,11 +10,12 @@ version = "1.0-SNAPSHOT"
 subprojects {
     version = "1.0-SNAPSHOT"
 }
-tasks.create<Copy>("cacheToLocalMavenRepository"){
-    from(file(gradle.gradleUserHomeDir.path + "caches/modules-2/files-2.1"))
+task<Copy>("cacheToLocalMavenRepository"){
+    from(File(gradle.gradleUserHomeDir.path ,"caches/modules-2/files-2.1"))
     into(repositories.mavenLocal().url)
     eachFile {
-        val parts = this.path.split('/')
+        val parts = this.path.split("/")
+        print(this.path)
         this.path = (parts[0] + '/' + parts[1]).replace('.', '/') + '/' + parts[2] + '/' + parts[4]
     }
     includeEmptyDirs = false
