@@ -1,0 +1,43 @@
+# plugin
+- language
+    - java
+    - groovy
+    - scala
+    - antlr //添加antlr生成解析器的支持
+- extend language
+    - assembler 汇编
+    - c
+    - cpp
+    - objective-c
+    - objective-cpp
+    - window-resource
+- intellectual
+    - application
+    - ear
+    - ivy-publish
+    - maven-publish
+    - maven
+    - osgi
+    - war
+- inyrllrct 
+    - distributiom 构建zip和tar
+    - java-library-distribution 对Java库的zip和tar构建
+- soft
+    - announce 发送消息
+    - build-announcement 向桌面发送消息
+    - checkstyle 质量检查并生成报告(java)
+    - codenarc 质量检查并生成报告(groovy)
+    - eclipse (java-groovy-scala)
+    - eclipse-wtp (ear-war)
+    - findbugs 质量检查并生成报告(java)
+    - idea
+    - jdepend 质量检查并生成报告(java)
+    - pmd 质量检查并生成报告(java)
+    - project-report 生成构建gradle的信息报告
+    - signing 进行数字签名
+- 孵化soft
+    - build-dashboard 生成构建仪表板报告
+    - cunit cunit测试支持
+    - jacoco 代码覆盖率集成
+    - visual-studio
+    - java-gradle-plugin 开发gradle插件
